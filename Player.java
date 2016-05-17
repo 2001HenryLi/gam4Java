@@ -31,7 +31,7 @@ public class Player extends Entity
 
     public void setTexture(String imagePath)
     {
-        super.setTexture(imagePath);
+        setTexture(imagePath);
     }
 
     public void setTurns(int turns0)
