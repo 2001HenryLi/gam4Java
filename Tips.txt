@@ -1,0 +1,8 @@
+1
+Be sure to select the correct mutation
+1
+based on your environment. Remember that
+3
+darker skin colors help your character in an environment with more sun,
+and lighter skin helps your character in an environment with less sun.
+Also, be sure to collect all of the food tiles within the set amount of turns given.
